@@ -1,0 +1,6 @@
+1 # teste3 # Hardware # teste
+1 # teste1 # Impressora # teste1
+1 # teste2 # Software # teste2
+1 # teste3 # Software # teste
+3 # teste jose # Software # jose
+1 # teste de teste # Rede # teste de teste 
